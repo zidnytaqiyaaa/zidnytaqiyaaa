@@ -41,7 +41,7 @@ Explore my projects and see how I apply data to solve real-world problems:
 
 I am always open to new opportunities and collaborations in data analytics, marketing, and human resources. If you share similar interests or have exciting projects to discuss, feel free to reach out!
 
-- 🌐 [LinkedIn](#https://www.linkedin.com/in/zidnytaqiya)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/zidnytaqiya)
 - 📧 **Email**: [zidnytaqiya@gmail.com]
 
 ### 🌟 Fun Fact
