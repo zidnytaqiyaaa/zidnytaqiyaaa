@@ -1,6 +1,5 @@
 ## 🌍 Hello World, I'm Zidny Taqiya 👋
 
-🎓 **Statistics Graduate** | 📊 **Data & Marketing Enthusiast** | 💼 **HR Analyst Enthusiast**
 
 ### 🚀 About Me
 
