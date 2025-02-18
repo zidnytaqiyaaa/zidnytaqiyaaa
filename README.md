@@ -22,7 +22,7 @@ I have successfully executed projects in market research, business intelligence,
 ### 📂 Portfolio & Projects
 
 Explore my projects and see how I apply data to solve real-world problems:
-- [Portfolio](#https://github.com/zidnytaqiyaaa?tab=repositories)
+- [Portfolio](https://github.com/zidnytaqiyaaa?tab=repositories)
 
 ### 🛠️ Technical Skills
 
