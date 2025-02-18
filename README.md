@@ -7,11 +7,6 @@ I am a statistics graduate with a passion for uncovering insights from data to d
 
 I have successfully executed projects in market research, business intelligence, and forecasting, enabling me to analyze complex datasets and deliver impactful recommendations.
 
-- � **Bachelor's in Statistics** | Institut Teknologi Sepuluh Nopember
-- 📈 Passionate about **Consumer Behavior Analysis, Product Management, Risk Management, and HR Analytics**
-- 🤖 Cohort at **Bangkit Academy 2024 (Machine Learning)**
-- 🔍 Experienced in **Data Analytics, Forecasting, and Business Insights**
-
 ### 🌱 Current Focus
 
 - 🔹 Developing expertise in **Marketing Analytics & HR Analytics**
