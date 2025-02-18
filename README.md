@@ -1,4 +1,4 @@
-## 🌍 Hello World, I'm [Rahma Zidny Taqiya] 👋
+## 🌍 Hello World, I'm Zidny Taqiya 👋
 
 🎓 **Statistics Graduate** | 📊 **Data & Marketing Enthusiast** | 💼 **HR Analyst Enthusiast**
 
